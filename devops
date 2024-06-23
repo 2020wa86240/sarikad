@@ -1,1 +1,5 @@
-devops 
+public class DevOps Example {
+   public static void main String[] args) {
+System.put.println("Welcome to Devops. ");
+}
+}
